@@ -1,0 +1,14 @@
+.box {
+	display: inline-block;
+	width: 200px;
+	height: 150px;
+	border: 1px solid black;
+	margin-right: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+/*#activities {
+	width: 875px;
+	height: 150px;
+}*/
